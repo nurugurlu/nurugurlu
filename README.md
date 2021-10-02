@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nurugurlu
+- 👋 Hi, I’m Nur
 - 👀 I’m interested in Quality Assurance
 - 🌱 I’m currently learning Development and Automation
 - 💞️ I’m looking to collaborate on Software Testing
